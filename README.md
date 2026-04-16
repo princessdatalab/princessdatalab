@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**princessdatalab/princessdatalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hi there 🖐, I'm Princess**
+🚀**About Me**
+I am a Data Analyst in training with a strong interest in turning raw data into meaningful insights.
+🚋**Skills**
+Microsoft Excel
+Power Bi
+**What I'm working on**
+Data analysis projects using Excel
+Building dashboards with Power Bi
+**Goals**
+Become a professional Data Analyst
+Build a strong portfolio
+**Projects**
+Projects will be uploaded soon
