@@ -6,6 +6,8 @@ I am a Data Analyst in training with a strong interest in turning raw data into 
 #**Skills**
 - Microsoft Excel
 - Power Bi
+- SQL
+- PYTHON
   
 🏢#**What I'm working on**
 - Data analysis projects using Excel
